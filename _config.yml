@@ -1,0 +1,28 @@
+name: Alex Zevenbergen Blog
+favicon: null
+layout_spectrum: 0.2179933765437454
+typography_spectrum: 0.5315194360446185
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33204629295505583
+  lightness: 0.3552314501721412
+  saturation: 0.1118689279537648
+  rhythmicContrast: 0.15672083967365324
+purpose: []
